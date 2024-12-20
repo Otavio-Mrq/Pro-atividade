@@ -1,0 +1,28 @@
+Requisitos para o aplicativo:
+
+O sistema deverá ser capaz de armazenar dados sobre as atividades realizadas;
+As informações a serem informadas pelo usuário deverão ser:
+Hora de início da atividade;
+Hora de encerramento da atividade;
+Nome da atividade;
+Data da atividade;
+Tipo do expediente (Integral ou meio);
+Produto da atividade;
+O sistema deverá ter a opção de alternar entre escolher o horário atual ou inserir o horário manualmente;
+O sistema deverá fazer o cálculo de tempo gasto na atividade;
+O sistema deverá realizar o cálculo da proporção de trabalho investida;
+O sistema deverá ter uma interface para apresentar em cores as demandas de acordo com as horas e porcentagem que as tarefas tomaram;
+O Sistema deverá ter um campo para informar uma justificativa para caso seja necessário, informar o porque o rendimento não foi completo em um dia;
+O sistema deverá ter uma interface para informar as informações das atividades;
+O sistema deverá ter a capacidade de gerar gráficos baseados nas informações armazenadas;
+O sistema deverá ter a capacidade de gerar gráficos baseados em informações específicas, tais como atividades como despache, SPED e entre outros;
+O sistema deverá possuir um banco de dados para armazenar e gerir os dados informados pela interface;
+O usuário deverá através da interface informar os dados requeridos pelo sistema;
+O sistema contará com cinco(5) interfaces:
+Interface para inserir uma atividade;
+Interface para atualizar dados de uma atividade já informada;
+Interface para deletar alguma atividade;
+Interface para a visualização das atividades já informadas;
+Interface para de gráficos baseadas nos dados informados;
+O sistema deverá ter a função de auto-preenchimento após a inserção uma vez do nome de uma atividade na interface;
+
